@@ -36,3 +36,8 @@ https://static.platzi.com/media/user_upload/lista%20tupla%20dicc-509ade1d-5524-4
 
 YAML - LENGUAJE DE SERIALIZACIÓN
 https://realpython.com/python-yaml/
+
+
+Getters & Setters
+https://www.geeksforgeeks.org/getter-and-setter-in-python/
+https://realpython.com/python-getter-setter/
