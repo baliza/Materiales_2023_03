@@ -41,3 +41,6 @@ https://realpython.com/python-yaml/
 Getters & Setters
 https://www.geeksforgeeks.org/getter-and-setter-in-python/
 https://realpython.com/python-getter-setter/
+
+INTERFACES
+https://realpython.com/python-interface/
